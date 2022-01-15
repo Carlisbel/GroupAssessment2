@@ -52,7 +52,9 @@ text-align: center;
 	font size: 2.0em
 }
 
-.mainButton{
+.mainButton1{
+	left: 10%;
+	position: absolute;
 	text-decoration: none;
 	color: #0000ff;
 	font-family: "Verdana";
@@ -66,7 +68,28 @@ text-align: center;
 	padding: 0.4% 3.2%;
 }
 
-.mainButton:hover {
+.mainButton1:hover {
+	background-color: #0000ff;
+	color: #fff;
+}
+
+.mainButton2{
+	right: 10%;
+	position: absolute;
+	text-decoration: none;
+	color: #0000ff;
+	font-family: "Verdana";
+	font-weight: 100;
+	font-size: 26;
+	text-align: center;
+
+	border: solid 2px #0000ff;
+	border-radius: 30px;
+
+	padding: 0.4% 3.2%;
+}
+
+.mainButton2:hover {
 	background-color: #0000ff;
 	color: #fff;
 }
@@ -96,4 +119,57 @@ text-align: center;
 
 .link:hover {
 	color: #fff;
+}
+
+.txt {
+	font-size: 20;
+    position: absolute;
+    top: 40%;
+    left: 7%;
+}
+.squareTeamInfo {
+	position: absolute;
+  top: 32%;
+  height: 9.5%;
+  width: 20%;
+  background-color: #ff6600;
+}
+
+.squareIndustryData {
+	position: absolute;
+  top: 43%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 24%;
+  background-color: #ff6600;
+}
+.squareITTech {
+	position: absolute;
+  top: 66%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 24%;
+  background-color: #ff6600;
+}
+.squareProject {
+	position: absolute;
+  top: 88.5%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 18%;
+  background-color: #ff6600;
+}
+.squareInterview {
+	position: absolute;
+  top: 54.5%;
+  height: 9.5%;
+	  width: 20%;
+  background-color: #ff6600;
+}
+.squareReferences {
+	position: absolute;
+  top: 77%;
+  height: 9.5%;
+	  width: 20%;
+  background-color: #ff6600;
 }
