@@ -137,7 +137,7 @@ text-align: center;
 
 .squareIndustryData {
 	position: absolute;
-  top: 0.5%;
+  top: 43%;
 	right: 7.95%;
   height: 9.5%;
 	  width: 24%;
@@ -153,7 +153,7 @@ text-align: center;
 }
 .squareProject {
 	position: absolute;
-  top: 32%;
+  top: 88.5%;
 	right: 7.95%;
   height: 9.5%;
 	  width: 18%;
@@ -168,7 +168,7 @@ text-align: center;
 }
 .squareReferences {
 	position: absolute;
-  top: 66%;
+  top: 77%;
   height: 9.5%;
 	  width: 20%;
   
