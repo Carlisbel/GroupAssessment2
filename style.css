@@ -132,7 +132,7 @@ text-align: center;
   top: 32%;
   height: 9.5%;
   width: 20%;
-  background-color: #ff6600;
+  
 }
 
 .squareIndustryData {
@@ -141,7 +141,7 @@ text-align: center;
 	right: 7.95%;
   height: 9.5%;
 	  width: 24%;
-  background-color: #ff6600;
+  
 }
 .squareITTech {
 	position: absolute;
@@ -149,7 +149,7 @@ text-align: center;
 	right: 7.95%;
   height: 9.5%;
 	  width: 24%;
-  background-color: #ff6600;
+  
 }
 .squareProject {
 	position: absolute;
@@ -157,35 +157,35 @@ text-align: center;
 	right: 7.95%;
   height: 9.5%;
 	  width: 18%;
-  background-color: #ff6600;
+  
 }
 .squareInterview {
 	position: absolute;
   top: 54.5%;
   height: 9.5%;
 	  width: 20%;
-  background-color: #ff6600;
+  
 }
 .squareReferences {
 	position: absolute;
   top: 66%;
   height: 9.5%;
 	  width: 20%;
-  background-color: #ff6600;
+  
 }
 .squareTools {
 	position: absolute;
   top: 88.5%;
   height: 9.5%;
 	  width: 20%;
-  background-color: #ff6600;
+  
 }
 .squareGroupref {
 	position: absolute;
   top: 88.5%;
   height: 9.5%;
 	  width: 20%;
-  background-color: #ff6600;
+  
 }
 
 
