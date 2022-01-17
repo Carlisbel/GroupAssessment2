@@ -137,7 +137,7 @@ text-align: center;
 
 .squareIndustryData {
 	position: absolute;
-  top: 43%;
+  top: 32%;
 	right: 7.95%;
   height: 9.5%;
 	  width: 24%;
@@ -145,7 +145,7 @@ text-align: center;
 }
 .squareITTech {
 	position: absolute;
-  top: 66%;
+  top: 54.5%;
 	right: 7.95%;
   height: 9.5%;
 	  width: 24%;
@@ -153,7 +153,7 @@ text-align: center;
 }
 .squareProject {
 	position: absolute;
-  top: 88.5%;
+  top: 66%;
 	right: 7.95%;
   height: 9.5%;
 	  width: 18%;
@@ -168,7 +168,7 @@ text-align: center;
 }
 .squareReferences {
 	position: absolute;
-  top: 77%;
+  top: 66%;
   height: 9.5%;
 	  width: 20%;
   background-color: #ff6600;
