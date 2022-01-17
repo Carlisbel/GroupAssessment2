@@ -174,14 +174,14 @@ text-align: center;
   background-color: #ff6600;
 }
 .squareTools {
-	position: relative;
+	position: absolute;
   top: 88.5%;
   height: 9.5%;
 	  width: 20%;
   background-color: #ff6600;
 }
 .squareGroupref {
-	position: relative;
+	position: absolute;
   top: 88.5%;
   height: 9.5%;
 	  width: 20%;
