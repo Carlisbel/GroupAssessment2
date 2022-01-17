@@ -174,7 +174,7 @@ text-align: center;
   background-color: #ff6600;
 }
 .squareTools {
-	position: absolute;
+	position: relative;
   top: 88.5%;
   height: 9.5%;
 	  width: 20%;
